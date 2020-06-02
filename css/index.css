@@ -35,11 +35,11 @@ body {
 
 #main {
 	display: inline-block;
-	font-size: 20px;
+	font-size: 18px;
 	padding-left: 25px;
 	padding-right: 25px;
 	text-align: justify;
-	line-height: 160%;
+	line-height: 150%;
 }
 
 #footer {
